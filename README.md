@@ -6,8 +6,9 @@ Unity tool to create ropes and chains with simple physics
 ### Requirements:
 1. **Odin inspector**:
 https://assetstore.unity.com/packages/tools/utilities/odin-inspector-and-serializer-89041
-
-2. Unity 2022+
+2. UniTask:
+   https://github.com/Cysharp/UniTask
+3. Unity 2022+
 
 Also supports **Dreamteck Splines**, but no support for **Unity Splines** yet.
 
