@@ -3,11 +3,11 @@ Unity tool to create ropes and chains with simple physics
 
 📑 Documentation: https://tim-entertainment.gitbook.io/tim.ropechain
 
-## Requirements:
-**Odin inspector**:
+### Requirements:
+1. **Odin inspector**:
 https://assetstore.unity.com/packages/tools/utilities/odin-inspector-and-serializer-89041
 
-Unity 2022+
+2. Unity 2022+
 
 Also supports **Dreamteck Splines**, but no support for **Unity Splines** yet.
 
